@@ -16,6 +16,9 @@ A Simple Task Management Application Built with Laravel, Blade Templating Engine
 * Composer
 * Mysql
 * Git
+## Start The local development server:
+   php artisan serve
+
 ## Contact
 If You Have any questions, feel free to reach out. 
 
