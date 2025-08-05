@@ -5,8 +5,18 @@ A Simple Task Management Application Built with Laravel, Blade Templating Engine
 
 ## Features
 
-* Create, Update, Delete, and view tasks. 
+* Create, Update, Delete, and View tasks. 
 * Simple, clean UI using Bootstrap. 
 * Blade Templating engine for dynamic content rendering. 
 * Mysql Database for Data Storage. 
-* Validation for form inputs. 
+* Validation for form inputs.
+
+## Requirements
+* PHP>=8.2
+* Composer
+* Mysql
+* Git
+## Contact
+If You Have any questions, feel free to reach out. 
+    * Email: rohitkk2099@gmail.com
+    * GitHub: rohit-singhkk
